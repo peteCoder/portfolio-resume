@@ -29,6 +29,11 @@ const Projects = () => {
           link="https://play.google.com/store/apps/details?id=com.tslnigeria.tslnigeriatv"
         />
         <ProjectCard
+          img={"/img/projects/tslweb.png"}
+          title="TSLNigeria TV Web"
+          link="https://streamit-frontend-ten.vercel.app/"
+        />
+        <ProjectCard
           img={"/img/projects/fitness.png"}
           title="Fitness Website"
           link="https://peter-fitness-website-demo.netlify.app/"
